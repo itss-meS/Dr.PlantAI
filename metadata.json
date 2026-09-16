@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Plant AI",
+  "description": "Offline-first edge AI crop disease diagnosis with on-device MobileNetV2 inference, WatermelonDB local persistence, and multilingual Treatment Vault.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
